@@ -105,7 +105,6 @@ main {
   height: 48;
   display: block;
   margin: 0 auto;
-  text-align: center;
 }
 .weather-forecast-temperatures {
   text-align: center;
